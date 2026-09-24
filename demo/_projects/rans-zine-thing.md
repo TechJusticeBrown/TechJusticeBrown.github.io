@@ -36,8 +36,9 @@ But the Cypherpunk movement is also deeply libertarian! How can we reconcile its
 Here are some of my starting questions. I'm sure you have your own that excite you!
 - Privacy-preserving and decentralized technology may empower individuals, but communities fighting for a different kind of social organization must organize themselves first. How do they do so, with this technology as an intentionally-wielded tool and not the organizing force itself? What are theories of change from the cipherpunk movement, and others? (Cybersyn, Twin Cities)
 - Critics of libertarianism point out that market deregulation comes at great environmental cost, but so do some forms of decentralizing technology, such as blockchains! When we hear of grassroots projects that use blockchains for a social justice mission (e.g. Bread Cooperative, Nina Protocol), to what extent should we wonder whether their theories of change abstract out other factors that are also necessary to liberation? (e.g. racial + environmental justice and a disentanglement from capitalist finances.)
-- What can we learn from reading the 1993 Cypherpunk manifesto in conversation with other manifestos and position statements?
-- Outside of technology, what are cultural and environmental logics of federation and decentralization that converse productively with cypherpunk and/or social organization beyond it? How might embodiment and metaphor fit in, e.g. by acting as narrative intervention? (Le Guin, Harroway, mycelial networks, your own sensory hankerings.)
+- What can we learn from reading the 1993 Cypherpunk manifesto in conversation with other manifestos and position statements?  
+- Outside of technology, what are cultural and environmental logics of federation and decentralization that converse productively with cypherpunk and/or social organization beyond it? How might embodiment and metaphor fit in, e.g. by acting as narrative intervention? (Le Guin, Harroway, mycelial networks, your own sensory hankerings.)  
+
 ---
 ## Readings & screenings.
 Module 1: Cypherpunk & Social Organization

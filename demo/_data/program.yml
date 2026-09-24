@@ -1,36 +1,40 @@
 legend:
   title: Legend
   categories:
-    - name: A category
+    - name: Logistics
       color: blue-6
-    - name: Another category
+    - name: Projects
       color: red-6
-    - name: Yet another category
+    - name: Work Time
       color: teal-6
+    - name: Org Building
+      color: orange-2
 days:
-  - name: Day 1
+  - name: GBM - Sept. 24 @6:30
     events:
-      - time: 8:00 to 9:00
-        title: Registration and coffee
-      - time: 9:00 to 11:00
-        title: Lorem ipsum
-        subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-        category: A category
-      - time: 11:00 to 13:00
-        title: Dolor sit amet
-        subtitle: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-        category: A category
-      - time: 13:00 to 14:00
-        title: Lunch break
-      - time: 14:00 to 16:00
-        title: Consectetur adipiscing elit
-        subtitle: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-        category: Another category
-      - time: 16:00 to 18:00
-        title: Sed do eiusmod
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-        category: Another category
-  - name: Day 2
+      - time: 6:30 to 6:40 - Sam
+        title: What's one food you dislike but wish you loved?
+        subtitle: Find someone you haven't talked to in a while and share!
+        category: Org Building
+      - time: 6:40 to 7:00 - Jiayi
+        title: Political Education Reading
+        subtitle: Jiayi will run the reading group and discussion
+        category: Org Building
+      - time: 7:00 to 7:10 - Sam
+        title: JTAG Wiki
+        subtitle: How will projects and organizational knowledge be organized and stored?
+        category: Logistics
+      - time: 7:10 to 7:20 - q and ak
+        title: Project Proposal Review
+        subtitle: Review some project proposals
+        category: Projects
+      - time: 7:20 to 7:30 - All
+        title: Ponder Your Purpose
+        subtitle: Consider what your submission to the blog post on the jtag website will be
+        category: Projects
+      - time: 7:30 - 7:00am
+        title: Sleeeeeeeeep
+  - name: Day 2 - Placeholder NOT REAL EVENT
     events:
       - time: 8:00 to 9:00
         title: Coffee
