@@ -12,27 +12,27 @@ legend:
 days:
   - name: GBM - Sept. 24 @6:30
     events:
-      - time: 6:30 to 6:40 - Sam
+      - time: 18:30 to 18:40 - Sam
         title: What's one food you dislike but wish you loved?
         subtitle: Find someone you haven't talked to in a while and share!
         category: Org Building
-      - time: 6:40 to 7:00 - Jiayi
+      - time: 18:40 to 19:00 - Jiayi
         title: Political Education Reading
         subtitle: Jiayi will run the reading group and discussion
         category: Org Building
-      - time: 7:00 to 7:10 - Sam
+      - time: 19:00 to 19:10 - Sam
         title: JTAG Wiki
         subtitle: How will projects and organizational knowledge be organized and stored?
         category: Logistics
-      - time: 7:10 to 7:20 - q and ak
+      - time: 19:10 to 19:20 - q and ak
         title: Project Proposal Review
         subtitle: Review some project proposals
         category: Projects
-      - time: 7:20 to 7:30 - All
+      - time: 19:20 to 19:30 - All
         title: Ponder Your Purpose
         subtitle: Consider what your submission to the blog post on the jtag website will be
         category: Projects
-      - time: 7:30 - 7:00am
+      - time: 19:30 to 7:00 - All
         title: Sleeeeeeeeep
   - name: Day 2 - Placeholder NOT REAL EVENT
     events:
