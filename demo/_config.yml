@@ -1,0 +1,29 @@
+title: Justice in Tech Action Group
+description: Jekyll theme for a conference website
+baseurl: /
+url: https://techjusticebrown.github.io
+
+permalink: pretty
+theme: jekyll-nagymaros
+
+home: /
+copyright: Justice in Tech Action Group
+indexing: true
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/

@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% include metadata.liquid %}
+{% include header.html %}
+
+<main class="my-4">
+    <div class="container">
+        <h1 class="display-5">{{ title }}</h1>
+        <h2 class="display-3">{{ author }}</h2>
+        <hr class="my-4">
+        {{ content }}
+    </div>
+</main>
+
+{% include footer.html %}

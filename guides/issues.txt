@@ -1,0 +1,42 @@
+1. File: Creating a Projects page.md
+   Problem: The step-2 example file (`demo/_projects/community-broadband-audit.md`) omits
+   `layout: project` from its front matter, even though step 3 says "Each file in `_projects/`
+   should set `layout: project`." I reproduced this literally: built a project file with only
+   `title`/`thumbnail`/`summary`/`date` (no `layout`) and Jekyll rendered it as bare, unstyled
+   content — `<p>Full body content.</p>` with no header, footer, nav, or `<h1>` title at all
+   (Jekyll only applies a layout to a collection document if one is set in its own front matter;
+   nothing defaults it to `project`). Re-adding `layout: project` to the front matter and
+   rebuilding produced the correct fully-templated page. This is a real, reproducible gap
+   between the doc's own example and its own stated instructions.
+   Fix: add `layout: project` to the front matter block shown in step 2 so the copy-pasteable
+   example matches what step 3 requires.
+
+2. File: Deploying to GitHub.md
+   Problem: The sample GitHub Actions workflow hardcodes `on: push: branches: ["main"]`, but I
+   confirmed via `git branch --show-current` and `git remote show origin` that this repository's
+   actual default branch is `master`, not `main`. As written, the example workflow would never
+   trigger on ordinary pushes to this repo's default branch.
+   Fix: change `branches: ["main"]` to `branches: ["master"]`, or better, add a one-line note
+   telling the reader to replace it with their actual default branch name (verified via
+   `git branch --show-current`) since this will vary by repo/fork.
+
+3. File: Creating a Projects page.md
+   Problem: The styling section tells the reader to "see `_data/skin.yml`" for available color
+   tokens, phrased as if the file already exists to inspect. I confirmed with
+   `find . -iname "skin.yml"` that no `_data/skin.yml` exists anywhere in this repo — it's an
+   opt-in file the README describes but that must be created from scratch (README.md:82,99: "If
+   ... `_data/skin.yml` does not exist, the theme assumes the default colors"). A reader who
+   goes looking for this file to "see" it will find nothing.
+   Fix: reword to something like "the theme supports a `_data/skin.yml` file (which doesn't
+   exist by default — you'd create it yourself) for Open Color tokens; see the README's Usage
+   section for the token list and an example," making clear the file doesn't already exist in
+   this repo.
+
+No other issues found this cycle. Re-verified: the nav-order fix from cycle 1 (navorder 1/2/3/4
+for Program/Map/Participants/Projects) builds with the correct nav sequence and correct "active"
+highlighting on the Projects gallery page; the `{{ title }}` fix in the project layout renders
+correctly once issue #1 above is also fixed; `text-muted` renders as expected (real Bootstrap
+class, unlike the old `text-caption`); `bundle install` and
+`bundle exec jekyll build --source demo --destination <scratch dir>` both still succeed
+end-to-end with no errors. All temporary test files and the `demo/_config.yml` collection
+addition were removed after testing; repo is clean except for the new `guides/` folder.
