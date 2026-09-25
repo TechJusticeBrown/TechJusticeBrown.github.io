@@ -30,7 +30,7 @@ print("hello world :/")
 ```
 
 ## Math Example:
-$$\lambda = \frac{\sup_\theta_0 l(D | \theta)}{\sup_\theta l(D | \theta)}$$
+$$\lambda = \frac{\sup_{\theta_0} l(D | \theta)}{\sup_\theta l(D | \theta)}$$
 
 # GitHub Guide
 GitHub is a tool for collaboration and version control. It enables easier examination of changes, revisions, and exploration for ongoing projects. Projects are typically built within a single repository.  
