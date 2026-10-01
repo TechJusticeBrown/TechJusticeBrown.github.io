@@ -93,11 +93,11 @@ Here are some of my starting questions. I'm sure you have your own that excite y
 
 ***Artifacts:***
 
-- [**The Bread Cooperative Manifesto](https://docs.bread.coop/about/manifesto/)&#32;**
+- **[The Bread Cooperative Manifesto](https://docs.bread.coop/about/manifesto/)&#32;**
     - Workers building decentralized financial tools for each other & those in need. Run cooperative-style.
-- [**Why the Cooperative Movement Should Care About Crypto Still](https://platform.coop/blog/why-the-cooperative-movement-should-care-about-crypto-still/)&#32;- Joshua Dávila - 2026**
+- **[Why the Cooperative Movement Should Care About Crypto Still](https://platform.coop/blog/why-the-cooperative-movement-should-care-about-crypto-still/)&#32;- Joshua Dávila - 2026**
     - Dávila created the Bread Cooperative & runs the blog [The Blockchain Socialist](https://theblockchainsocialist.com/), which espouses crypto in its socialist theory of change.
-- [**A Revolution for the Perplexed](https://theluddite.org/post/blockchain-radicals.html)&#32;- The Luddite - 2025**
+- **[A Revolution for the Perplexed](https://theluddite.org/post/blockchain-radicals.html)&#32;- The Luddite - 2025**
     - A book review. Argues that blockchains aren't really a useful tool in socialist organizing, Dávila's theory of change is misguided, and that the Bread Cooperative has a material basis on capitalist finances, and thus reproduces capitalist relations while labeling them post-capitalist.
 - **The Nina Protocol**
     - A now-defunct music distribution protocol that aimed to allow artists to distribute music and retain 100% of profits via the blockchain's decentralized logic. In my understanding, it went defunct because, despite its utopic ethos, it had an incoherent revenue model.
