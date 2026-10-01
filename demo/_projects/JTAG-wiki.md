@@ -34,7 +34,8 @@ $$\lambda = \frac{\sup_{\theta_0} l(D | \theta)}{\sup_\theta l(D | \theta)}$$
 
 # GitHub Guide
 GitHub is a tool for collaboration and version control. It enables easier examination of changes, revisions, and exploration for ongoing projects. Projects are typically built within a single repository.  
-To contribute to the [JTAG GitHub Pages Website](https://github.com/TechJusticeBrown/TechJusticeBrown.github.io/tree/main), you'd need to make a GitHub account then be added as a contributer to the repository. Check out [this guide](https://scribe.com/library/how-to-use-github) to learn how to use it.
+To contribute to the [JTAG GitHub Pages Website](https://github.com/TechJusticeBrown/TechJusticeBrown.github.io/tree/main), you'd need to make a GitHub account then be added as a contributer to the repository. Check out [this guide](https://scribe.com/library/how-to-use-github) to learn how to use it.  
+We encourage you to join as a collaborator so you can directly contribute to the website!
 
 # Website and Repository Notes
 I am not a frontend adept nor am I particularly knowledgeable about GitHub. If anyone has strong opinions about how these resources ought to be used or how collaboration should be managed/improved, feel free to reach out.
