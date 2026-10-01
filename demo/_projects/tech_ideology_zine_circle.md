@@ -1,9 +1,9 @@
 ---
 layout: project
-title: "JTAG Wiki"
-author: Sam
+title: "Tech + Ideology zine circle"
+author: beetlbub
 thumbnail: "assets/img/tech+ideology zine circle flyer.png"
-summary: "Create shared identity while building a public-facing education source"
+summary: "making sick zines"
 date: 2026-09-23
 ---
 # Tech + Ideology Zine Circle
