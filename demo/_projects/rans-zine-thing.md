@@ -1,3 +1,11 @@
+---
+layout: project
+title: "JTAG Wiki"
+author: Sam
+thumbnail: "assets/img/tech+ideology zine circle flyer.png"
+summary: "Create shared identity while building a public-facing education source"
+date: 2026-09-23
+---
 # Tech + Ideology Zine Circle
 
 Hi ziners! I had an idea to do a reading group / zine circle where we spend a few weeks, or an even shorter block of time ("zine sprint") engaging critically with technology and ideology's co-construction. The reason is I feel that texts and course offerings on tech x humanities often give survey views instead of narrowing down and diving deep, and I also want to create more structure for low-stakes project work (i.e. something that can fit on a single page in a zine) :)
