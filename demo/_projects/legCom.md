@@ -8,7 +8,7 @@ date: 2026-10-19
 ---
 # Legislative Committee
 
-Howdy folks, and welcome to the legilsative committee! Or the page for it, anyways. This spot is for looking 
+Howdy folks, and welcome to the legislative committee! Or the page for it, anyways. This whole thing is a work in progress.
 
 **Meeting Times**
 TBD
